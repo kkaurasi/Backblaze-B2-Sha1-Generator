@@ -26,11 +26,12 @@ A desktop utility (Tkinter GUI) for computing file checksums and generating read
 ### Requirements
 - Python 3.8 or newer
 - `tkinter` (usually included with Python on macOS/Linux; Windows installs may require it to be enabled)
+- boto3>=1.34 + botocore>=1.34
 
 ### Running locally
 Clone this repository and start the application:
 
 ```bash
 git clone https://github.com/<YOUR_USERNAME>/Backblaze-B2-Sha1-Generator.git
-cd Backblaze-B2-Sha1-Generator
+cd Backblaze-B2-Sha1-Generator/src
 python3 sha1_cligenerator_main.py
