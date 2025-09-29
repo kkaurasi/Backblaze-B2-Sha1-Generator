@@ -32,6 +32,6 @@ A desktop utility (Tkinter GUI) for computing file checksums and generating read
 Clone this repository and start the application:
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/Backblaze-B2-Sha1-Generator.git
+git clone https://github.com/kkaurasi/Backblaze-B2-Sha1-Generator.git
 cd Backblaze-B2-Sha1-Generator/src
 python3 sha1_cligenerator_main.py
